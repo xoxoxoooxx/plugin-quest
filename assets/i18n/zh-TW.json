@@ -1,6 +1,6 @@
 {
-  "Plugin Description": "任務信息查詢 & 任務面板強化",
-  "Quest Information": "任務信息",
+  "Plugin Description": "任務資訊查詢 & 任務面板強化",
+  "Quest Information": "任務資訊",
 
   "Composition Quest": "編成任務",
   "Sortie Quest": "出擊任務",
@@ -82,10 +82,10 @@
       "main": "{{{lv}}}{{{ship}}}{{{select}}}{{{flagship}}}{{{amount}}}{{{note}}}",
       "lv": "Lv.%s",
       "lvmore": "Lv.%s或以上",
-      "amount": "%s只",
-      "amountonly": "僅%s只",
-      "amountmore": "%s只或以上",
-      "select": "任意%s只",
+      "amount": "%s艘",
+      "amountonly": "僅%s艘",
+      "amountmore": "%s艘或以上",
+      "select": "任意%s艘",
       "note": "(%s)",
       "flagship": "旗艦"
     },
@@ -115,7 +115,7 @@
 
     "sink": {
       "main": "擊沉{{{ship}}}{{{amount}}}",
-      "amount": "%s只",
+      "amount": "%s艘",
       "ship": "%s"
     },
 
@@ -162,7 +162,7 @@
       "equip": "祕書艦{{{secretary}}}搭載未上鎖的{{{fullyskilled}}}{{{equipment}}}",
       "noequip": "祕書艦設為{{{secretary}}}",
       "secretarydefault": "空母",
-      "scrap": "{{{name}}}{{{amount}}}只",
+      "scrap": "{{{name}}}{{{amount}}}艘",
       "scrapdelim": "，",
       "fullyskilled": "、滿熟練度的",
       "useskilledcrew": "，同時消耗一個熟練搭乘員"
