@@ -1,26 +1,76 @@
 {
-  "name": "poi-plugin-quest-info",
-  "version": "2.0.5",
-  "description": "show quest info",
-  "main": "index.cjsx",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      "poi-plugin-quest-info",
+      "/Users/seedpk5079/Library/Application Support/poi/plugins"
+    ]
+  ],
+  "_from": "poi-plugin-quest-info@latest",
+  "_id": "poi-plugin-quest-info@2.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/poi-plugin-quest-info",
+  "_nodeVersion": "5.0.0",
+  "_npmUser": {
+    "email": "poooipoi@126.com",
+    "name": "letspoi"
   },
+  "_npmVersion": "3.3.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "poi-plugin-quest-info",
+    "raw": "poi-plugin-quest-info",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/poi-plugin-quest-info/-/poi-plugin-quest-info-2.0.4.tgz",
+  "_shasum": "1b9924adcf440160c7b87caae009cd9d672c38a4",
+  "_shrinkwrap": null,
+  "_spec": "poi-plugin-quest-info",
+  "_where": "/Users/seedpk5079/Library/Application Support/poi/plugins",
+  "author": {
+    "name": "malichan"
+  },
+  "bugs": {
+    "url": "https://github.com/poooi/plugin-quest/issues"
+  },
+  "dependencies": {
+    "inflection": "^1.8.0",
+    "mustache": "^2.2.1",
+    "pluralize": "^1.2.1",
+    "underscore": "^1.8.3"
+  },
+  "description": "show quest info",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1b9924adcf440160c7b87caae009cd9d672c38a4",
+    "tarball": "http://registry.npmjs.org/poi-plugin-quest-info/-/poi-plugin-quest-info-2.0.4.tgz"
+  },
+  "gitHead": "4154bbec5f51e069971500670d943f6952103488",
+  "homepage": "https://github.com/poooi/plugin-quest#readme",
+  "license": "MIT",
+  "main": "index.cjsx",
+  "maintainers": [
+    {
+      "name": "letspoi",
+      "email": "poooipoi@126.com"
+    }
+  ],
+  "name": "poi-plugin-quest-info",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/poooi/plugin-quest.git"
   },
-  "author": "malichan",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/poooi/plugin-quest/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/poooi/plugin-quest#readme",
-  "dependencies": {
-    "pluralize": "^1.2.1",
-    "underscore": "^1.8.3",
-    "inflection": "^1.8.0",
-    "mustache": "^2.2.1"
-  },
-  "devDependencies": {}
+  "version": "2.0.4"
 }
