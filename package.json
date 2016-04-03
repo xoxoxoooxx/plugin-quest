@@ -1,19 +1,11 @@
 {
-  "_args": [
-    [
-      "poi-plugin-quest-info",
-      "/Users/seedpk5079/Library/Application Support/poi/plugins"
-    ]
-  ],
-  "_from": "poi-plugin-quest-info@latest",
-  "_id": "poi-plugin-quest-info@2.0.4",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/poi-plugin-quest-info",
-  "_nodeVersion": "5.0.0",
-  "_npmUser": {
-    "email": "poooipoi@126.com",
-    "name": "letspoi"
+
+  "name": "poi-plugin-quest-info",
+  "version": "2.1.0",
+  "description": "show quest info",
+  "main": "index.cjsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "_npmVersion": "3.3.9",
   "_phantomChildren": {},
@@ -36,6 +28,11 @@
   "author": {
     "name": "malichan"
   },
+  "author": {
+    "name": "马里酱",
+    "link": "https://github.com/malichan"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/poooi/plugin-quest/issues"
   },
@@ -72,5 +69,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "2.0.4"
+  "devDependencies": {},
+  "poiPlugin": {
+    "title": "Quest Information",
+    "description": "Plugin Description",
+    "icon": "fa/indent",
+    "priority": 2
+  }
 }
